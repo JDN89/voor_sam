@@ -1,15 +1,15 @@
 ### KEYS
-spatie + sk : search keybindings
-spatie + sh : searh help  (je kan zo documentatie van neovim en plugins opzoeken en openen in neovim zelf)
-spatie + sg : search grep
-spatie + ff : search files
+spatie + sk : search keybindings \
+spatie + sh : searh help  (je kan zo documentatie van neovim en plugins opzoeken en openen in neovim zelf) \
+spatie + sg : search grep \
+spatie + ff : search files \
 
-ctrl + w : opties om screen te splitte etc. zie je onderaan verschijnen
+ctrl + w : opties om screen te splitte etc. zie je onderaan verschijnen \
 
-spatie + db :breakpoint zetten
-step,... zijn zelfde keybindings als in intelij
+spatie + db :breakpoint zetten \
+step,... zijn zelfde keybindings als in intelij \
 
-in normal mode en denk ook visual triggert s de flash plugin. Zo kan je exact naar een positie in de codebase springen
+in normal mode en denk ook visual triggert 's' de flash plugin. Zo kan je exact naar een positie in de codebase springen
 
 Ik heb gisterenavond nog de Go debug adapter kunnen laten werken.
 Ik moest gewoon delve zelf nog installeren op mijn pc
