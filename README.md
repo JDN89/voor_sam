@@ -7,7 +7,7 @@ spatie + ff : search files \
 ctrl + w : opties om screen te splitte etc. zie je onderaan verschijnen \
 
 spatie + db :breakpoint zetten \
-step,... zijn zelfde keybindings als in intelij \
+ste. intop,... zijn zelfde keybindings als in intelij \  f6 f7 f8 f9
 
 in normal mode en denk ook visual triggert 's' de flash plugin. Zo kan je exact naar een positie in de codebase springen
 
